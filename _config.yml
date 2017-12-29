@@ -1,0 +1,19 @@
+title: The Layout
+tagline: Reflections on the craft of UI engineering.
+description: A journey into the principles, mindset, and practices that shape the craft of building user interfaces.
+canonical: http://thelayout.cc
+
+owner:
+  name: Lucas Rocha
+  bio: UI Frameworks at Facebook. Formerly at Mozilla, GNOME, litl, and Nokia.
+  email: lucasr@lucasr.org
+  twitter: lucasratmundo
+  linkedin: lucasr
+  instagram: lucasratmundo
+  github: lucasr
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-redirect-from
